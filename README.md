@@ -1,6 +1,6 @@
 # EXPERIMENT-01-ALP-FOR-8086
-#### Name : RAHUL M R 
-#### Register no : 2305003005
+#### Name : moulishwar g
+#### Register no : 2305001020
 #### Date of experiment :
 
 
